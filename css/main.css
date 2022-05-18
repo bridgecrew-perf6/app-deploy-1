@@ -1,0 +1,11 @@
+.container {
+  background-color: blue;
+  color: pink;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.container h3 {
+  font-size: 10rem;
+  text-shadow: 5px 5px black;
+}/*# sourceMappingURL=main.css.map */
